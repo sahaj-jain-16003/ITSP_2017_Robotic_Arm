@@ -1,2 +1,2 @@
-# ITSP_2017_Robotic_Arm
-ITSP 2017-Robotic gripper with arm
+# ROBOTIC GRIPPER WITH ARM
+## RTL Team 102(G)
