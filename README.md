@@ -19,9 +19,8 @@ The purpose of our project is to construct a robotic gripper controlled with the
 3. HC-05 Bluetooth Module
 4. Gears(x2)
 5. Aluminium sheets,Plywood,Nuts,Bolts etc.
-/.</br>
+</br>
 ## A Rough Schemetic Diagram of The Project:- 
-
 </br>
 ## Phase 1:9th-19th June 2017
 1.Brainstormed ideas and decided a design and concept for the project.
